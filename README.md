@@ -75,3 +75,6 @@ npx @modelcontextprotocol/inspector node index.js
 ## License
 
 MIT
+
+Screenshot:
+<img width="1899" height="1070" alt="Screenshot 2025-11-02 085838" src="https://github.com/user-attachments/assets/7b5bd5eb-8f45-470e-ab8a-b7e08e6a673b" />
