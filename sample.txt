@@ -1,0 +1,19 @@
+Hello World
+This is a test file for MCP keyword search
+Hello again from line 3
+Testing keyword search functionality
+Another line with Hello in it
+Some random text without the keyword
+Hello from line 7
+This file contains multiple instances
+You can search for any keyword here
+Hello appears several times
+JavaScript is awesome
+Python is great too
+Hello World appears at the start and end
+MCP servers are powerful tools
+File search makes finding text easy
+Hello everyone reading this file
+The quick brown fox jumps over the lazy dog
+Lorem ipsum dolor sit amet
+Hello from the bottom of the file

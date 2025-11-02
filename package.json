@@ -1,0 +1,26 @@
+{
+  "name": "mcp-file-search-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP server for searching keywords in files",
+  "main": "index.js",
+  "bin": {
+    "mcp-file-search-server": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "inspector": "npx @modelcontextprotocol/inspector node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "file-search",
+    "keyword-search"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.2"
+  }
+}
