@@ -78,3 +78,7 @@ MIT
 
 Screenshot:
 <img width="1899" height="1070" alt="Screenshot 2025-11-02 085838" src="https://github.com/user-attachments/assets/7b5bd5eb-8f45-470e-ab8a-b7e08e6a673b" />
+<img width="820" height="811" alt="Screenshot 2025-11-02 085927" src="https://github.com/user-attachments/assets/36f37967-2938-4657-a2c4-50583903bc52" />
+<img width="1919" height="1079" alt="Screenshot 2025-11-02 085939" src="https://github.com/user-attachments/assets/0914c060-cdc1-4c1c-a6ab-46824bdaff04" />
+
+
